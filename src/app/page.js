@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <>
       {productos.map(producto => (
-        <h1>{producto.name}</h1>
+        <h1 key={producto._id}>{producto.name}</h1>
       ))}
     </>
   )
