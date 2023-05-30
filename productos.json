@@ -1,0 +1,26 @@
+{
+    "productos": [
+        {"_id": "1", "categoria": "limpieza", "name": "JABON simil SKIP x 5L", "precio": 499.99, "img": "productos/110141-6d1f19e52203af191316360406278571-1024-1024_hzoaol.jpg"},
+        {"_id": "2", "categoria": "limpieza", "name": "Detergente ecológico Mas Limpio x 1,8 Lts", "precio": 199.99, "img": "https://res.cloudinary.com/imagesapinext/image/upload/v1685371029/productos/jabon-ropa-2-litros1-a345c2ce810414b50416155892806642-480-0_znqjzf.webp"},
+        {"_id": "3", "categoria": "limpieza", "name": "HIGIENOL MAX PAPEL HIGIENICO", "precio": 1072.00, "img": "productos/higienol-max-4-rollos-0150551-2335e231c4dfdf600116458859901943-640-0_tibyif.webp"},
+        {"_id": "4", "categoria": "limpieza", "name": "Papel Higiénico Premier 600 Hoja Doble 4 pz", "precio": 999.99, "img": "productos/22815_gdwqzo.webp"},
+        {"_id": "6", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "7", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "8", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "9", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "10", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+        {"_id": "5", "categoria": "limpieza", "name": "", "precio": , "img": ""},
+    ]
+}
