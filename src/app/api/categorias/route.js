@@ -1,15 +1,12 @@
-
 import clientPromise from "@/lib/mongodb";
 import { NextResponse } from "next/server";
 
-
 export async function GET(req, res) {
     const mongoClient = await clientPromise
-    const respuesta = await mongoClient
+    const resultado = await mongoClient
         .db()
-        .collection('productos')
+        .collection('categorias')
         .find()
-        .sort()
         .toArray()
-    return NextResponse.json(respuesta)
+    return NextResponse.json(resultado)
 }
