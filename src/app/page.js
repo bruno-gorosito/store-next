@@ -71,7 +71,7 @@ export default function Home() {
       {productos.map(producto => (
         <h1 key={producto._id}>{producto.name}</h1>
       ))} */}
-      <div>
+      <div className='flex flex-wrap'>
         {productos.map(producto => (
           <Card 
             key={producto._id}
